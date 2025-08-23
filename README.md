@@ -9,7 +9,7 @@
 ### Um pouco sobre mim:
 🎓 Sou estudante de **Informática Biomédica** pela *UFCSPA* e formado como **Técnico em Informática** pelo *IFSul*.  
 💻 Tenho interesse em **desenvolvimento de software** e integração entre tecnologia e saúde.  
-🌱 Atualmente, estou explorando projetos acadêmicos e pessoais que envolvem **programação, ciência de dados e informática na saúde**.  
+🌱 Atualmente, estou explorando projetos acadêmicos que envolvem **programação, ciência de dados e informática na saúde**.  
 🚀 Meu objetivo é construir soluções digitais que possam gerar impacto positivo na área da saúde e pesquisa científica.  
 <hr>
 
