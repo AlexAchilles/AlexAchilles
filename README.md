@@ -23,7 +23,7 @@
 </div>
 
 <div style="display: inline_block"><br/>
-<h3>Tecnologias que tenho bastante experiência:</h3> 
+<h3>Tecnologias que tenho experiência:</h3> 
 <img align="center" alt="JAVA" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 <img align="center" alt="JS" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 <img align="center" alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
