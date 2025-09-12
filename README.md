@@ -14,7 +14,7 @@
 <hr>
 
 <div style="display: inline_block">
-<h3>Tecnologias que tenho trabalhado recentemente:</h3>
+<h3>Tecnologias que tenho estudado recentemente:</h3>
 <img align="center" alt="DART" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
 <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
 <img align="center" alt="FireBase" src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34">
